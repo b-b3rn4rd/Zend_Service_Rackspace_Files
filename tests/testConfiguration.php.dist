@@ -1,0 +1,4 @@
+<?php
+/* Rackspace test configuration, include this file in bootstrap (without .dist) */
+define('TEST_RACKSPACE_USER', 'Enter Here');
+define('TEST_RACKSPACE_KEY', 'Enter Here');
